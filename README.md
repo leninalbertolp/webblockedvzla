@@ -4,20 +4,19 @@ El objetivo de este repositorio es tratar de recolectar información de las pág
 
 ## Páginas web
 
-| Nombre          | Url                    | Operadora        |Tipo de bloqueo  |
-| --------------- |:----------------------:|:----------------:|:---------------:|
-| El nacional     | www.el-nacional.com    | CANTV / Movilnet | HTTP            |
-| La patilla      | www.lapatilla.com      | CANTV / Movilnet | HTTP            |
-| Maduradas       | www.maduradas.com      | CANTV / Movilnet | HTTP            |
-| Armando info    | www.armando.info       | CANTV / Movilnet | HTTP            |
-| Tunnelbear      | www.tunnelbear.com     | CANTV / Movilnet | TCP/IP          |
-| Caraota digital | www.caraotadigital.net | CANTV / Movilnet | HTTP            |
-| Vivo play       | www.vivoplay.net       | CANTV / Movilnet | HTTP            |
-| Vpi tv          | www.vpitv.com          | CANTV / Movilnet | HTTP            |
-| Evtv miami      | www.evtvmiami.com      | CANTV / Movilnet | HTTP            |
-| Ntn 24          | www.ntn24.com          | CANTV / Movilnet | TCP/IP          |
-| Windscribe      | www.windscribe.com     | CANTV / Movilnet | POR DETERMINAR  |
-
+| Nombre          | Url                    | Operadora        |Tipo de bloqueo  | Status  |
+| --------------- |:----------------------:|:----------------:|:---------------:| :------:|
+| El nacional     | www.el-nacional.com    | CANTV / Movilnet | HTTP            | Activo  |
+| La patilla      | www.lapatilla.com      | CANTV / Movilnet | HTTP            | Activo  |
+| Maduradas       | www.maduradas.com      | CANTV / Movilnet | HTTP            | Activo  |
+| Armando info    | www.armando.info       | CANTV / Movilnet | HTTP            | Activo  |
+| Tunnelbear      | www.tunnelbear.com     | CANTV / Movilnet | TCP/IP          | Activo  |
+| Caraota digital | www.caraotadigital.net | CANTV / Movilnet | HTTP            | Activo  |
+| Vivo play       | www.vivoplay.net       | CANTV / Movilnet | HTTP            | Activo  |
+| Vpi tv          | www.vpitv.com          | CANTV / Movilnet | HTTP            | Activo  |
+| Evtv miami      | www.evtvmiami.com      | CANTV / Movilnet | HTTP            | Activo  |
+| Ntn 24          | www.ntn24.com          | CANTV / Movilnet | TCP/IP          | Activo  |
+| Windscribe      | www.windscribe.com     | CANTV / Movilnet | POR DETERMINAR  | Activo  |
 
 ## Servicios Digitales de VPN's bloqueados
 
