@@ -17,6 +17,7 @@ El objetivo de este repositorio es tratar de recolectar información de las pág
 | Evtv miami      | www.evtvmiami.com      | CANTV / Movilnet | HTTP            | Activo  |
 | Ntn 24          | www.ntn24.com          | CANTV / Movilnet | TCP/IP          | Activo  |
 | Windscribe      | www.windscribe.com     | CANTV / Movilnet | POR DETERMINAR  | Activo  |
+| Aporrea         | www.aporrea.org        | CANTV / Movilnet | POR DETERMINAR  | Activo  |
 
 ## Servicios Digitales de VPN's bloqueados
 
