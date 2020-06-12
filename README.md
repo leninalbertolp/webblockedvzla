@@ -22,7 +22,7 @@ El objetivo de este repositorio es tratar de recolectar información de las pág
 ## Servicios Digitales de VPN's bloqueados
 
 - Tunnelbear
-- Windscribe
+- Windscribe - Su página web es accesible
 
 ## Como contribuir.
 
